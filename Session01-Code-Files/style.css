@@ -1,0 +1,21 @@
+/*type selector*/
+body{
+  text-align: center;
+  background-color: #aed7dd;
+  margin:0pt;
+}
+
+/*type selector*/
+h1{
+  color: #0c36b6;
+  font-size: 40pt;
+  font-family: cursive;
+}
+
+/*class selector*/
+.Section1{
+  background-color:#35fa0c;
+}
+
+
+/*id selector*/
